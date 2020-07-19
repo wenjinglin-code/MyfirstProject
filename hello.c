@@ -2,5 +2,5 @@
 
 int main(void)
 {
-  int a;
+  print("hello world");
 }
